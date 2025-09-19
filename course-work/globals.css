@@ -1,0 +1,14 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: rgb(92, 92, 92);
+    background-image: url("images/IMG_7911.JPG");
+    /*background-repeat: no-repeat;*/ /* Left out because the image is so pixelated */'
+    /*background-size: cover;*/
+    background-position: center;
+    object-fit: contain;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 20px;
+}

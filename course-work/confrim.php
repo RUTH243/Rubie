@@ -13,7 +13,7 @@ echo "<script>alert('SMS Sent to $phone: $message');</script>";
 ?>
 <!DOCTYPE html>
 <html>
-<head><link rel="stylesheet" href="style.css"></head>
+<head><link rel="stylesheet" href="home.css"></head>
 <body>
 <div class="container">
     <h2>Booking Confirmed!</h2>
